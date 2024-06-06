@@ -1,4 +1,4 @@
-# Library-Management
+# Library-Management-C-Pointers-Manipulation
 
 L’application doit gérer trois listes : la liste des ouvrages, la liste des étudiants et la liste des emprunts. Pour cela, nous avons choisi la structure : liste simplement chaînée. 
 En plus des listes, nous avons utilisé les files pour gérer les files d’attente. En ce qui concerne la structure de ces dernières, nous avons préféré qu’elles soient de type enregistrement à 2 champs (cote et matricule) pour pouvoir stocker les demandes mises en attente.
